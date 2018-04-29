@@ -60,10 +60,10 @@ void setup() {
   Serial.print("Initializing SD card...");
 
   if (!SD.begin(4)) {
-    Serial.println("initialization failed!");
+    Serial.println("Initialization failed!");
     return;
   }
-  Serial.println("initialization done.");
+  Serial.println("Initialization done.");
 
 int now;
 
