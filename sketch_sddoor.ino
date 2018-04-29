@@ -3,7 +3,7 @@
 
   Script for logging time of door open/close into SD scard
 
-  Pin numver for SD module
+  Pin number for SD module
   ** MOSI - 11
   ** MISO - 12
   ** CLK - 13
