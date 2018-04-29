@@ -27,6 +27,7 @@ Pin A0 for open/close detector. (Connected to the power source be default)
  - GND > GND
  - SCL > A5
  - SDA > A4
+ 
  Note: Sorry, No diagram.
 
 ### 3. Connect the board to your PC then upload a sketch.
