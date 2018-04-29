@@ -71,3 +71,6 @@ But again if you see this.
 error opening test.txt
 ```
 You may not have created `test.txt` yet.
+
+## Known Issue
+- Sometime SD Card cannot be initialized. (Hardware issue possibly)
