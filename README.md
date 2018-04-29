@@ -12,7 +12,7 @@ Models I used for this project is in parentheses
 
 ## How to use
 
-### 1.Connect all neccessary module to the board
+### 1. Connect all neccessary module to the board
 
 Pin A0 for open/close detector. (Connected to the power source be default)
 
