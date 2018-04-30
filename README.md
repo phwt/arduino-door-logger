@@ -8,6 +8,7 @@ Simple script used for logging date and time when the door is opened. (Not just 
 - SD Card module (DFR0071)
 - Real Time Clock module (DS3231)
 - SD Card
+
 Models I used for this project is in parentheses
 
 ## How to use
